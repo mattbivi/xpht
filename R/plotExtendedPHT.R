@@ -28,7 +28,7 @@
 #' 1.
 #' @inheritParams graphics::plot
 #' @export
-plot.extendedPHT <- function(x,
+plotExtendedPHT <- function(x,
                             barcode = FALSE,
                             col = c( "#000000",
                                      "#e69f00",
